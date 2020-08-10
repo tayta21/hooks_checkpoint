@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.haha{
+  border: 1px solid black;
+  text-align: center;
+  margin-left:400px;
+  margin-right:400px;
+}
